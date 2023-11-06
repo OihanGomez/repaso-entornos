@@ -6,6 +6,12 @@ public class Main {
             if (i == 4){
                 System.out.println(i);
                 i =+ 1;
+            } else if (i==2) {
+                System.out.println("hola");
+
+            }
+            else {
+                System.out.println(1+2*4/6);
             }
 
         }
